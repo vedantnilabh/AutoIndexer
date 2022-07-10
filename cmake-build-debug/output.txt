@@ -1,0 +1,7 @@
+
+[A]
+algorithm: 3
+[B]
+b+ tree: 4, 10
+[D]
+doubly linked list: 10
